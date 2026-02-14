@@ -326,20 +326,6 @@ if step % 100 == 0 and hasattr(optimizer, 'D') and optimizer.D is not None:
 
 ---
 
-## Citation
-
-```bibtex
-@article{consolidation2024,
-  title={Consolidation Ratio: A Unified Signal-to-Noise Metric for Predicting 
-         and Steering Grokking, Double Descent, and Neural Phase Transitions},
-  author={Anonymous},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
-}
-```
-
----
-
 ## References
 
 **Foundational**
