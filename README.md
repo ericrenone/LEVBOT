@@ -1,6 +1,6 @@
 # Geometric Lévy Dynamics in Deep Learning
 
-*LEVBOT is a unified information-geometric theory modeling deep learning as Lévy-driven stochastic flow on curved manifolds, where heavy-tailed optimization noise and curvature jointly trigger phase transitions in representation learning*
+*Unified information-geometric theory modeling deep learning as Lévy-driven stochastic flow on curved manifolds, where heavy-tailed optimization noise and curvature jointly trigger phase transitions in representation learning*
 
 ---
 
