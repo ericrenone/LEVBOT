@@ -1,6 +1,6 @@
 # Stochastic Harmonic Learning Dynamics (SHLD)
 
-** A statistical mechanics framework for understanding neural network training dynamics, phase transitions, and emergent phenomena.**
+**A statistical mechanics framework for understanding neural network training dynamics, phase transitions, and emergent phenomena.**
 ---
 
 ## Overview
