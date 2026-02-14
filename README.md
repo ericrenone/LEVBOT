@@ -834,10 +834,6 @@ To elevate from "engineering tool" to "research contribution":
 
 ---
 
-## Recommended Citation (Honest)
-
----
-
 Acknowledge building on:
 - Mandt et al. (2017) for D formula
 - Smith et al. (2021) for SNR analysis
